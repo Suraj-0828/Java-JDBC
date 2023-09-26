@@ -69,7 +69,7 @@ Step 4
 
 -> Click Java
 
--> Here pahle jph apka J-Connector ki file hai uska path copy kar ke rakho then idhar file ka name nahi mile toh path paste karo idhar...
+-> Here pahle joh apka J-Connector ki file hai uska path copy kar ke rakho then idhar file ka name nahi mile toh path paste karo idhar...
 
 -> J-Connector (Copy Paste)
 
