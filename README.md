@@ -6,6 +6,8 @@ How to connect Java to Mysql database , JDBC connections with J-connector file
 JAVA-JDBC
 ---------------------------
 Step 1
+
+
 -> Install Mysql
 
 -> Mysql community server any(32bit or 64 bit)
@@ -15,6 +17,8 @@ Step 1
 
 
 Step 2
+
+
 -> Download (Part 1)
 
 -> Mysql Connector/J-Mysql
@@ -27,6 +31,8 @@ Step 2
 
 
 Step 3
+
+
 -> Download (Part 2)
 
 -> Download J-Connector / Jar file
@@ -45,6 +51,8 @@ Step 3
 
 
 Step 4
+
+
 -> Open Java new project
 
 -> Click project name
