@@ -7,9 +7,7 @@ JAVA-JDBC
 ---------------------------
 Step 1
 -> Install Mysql
-
 -> Mysql community server any(32bit or 64 bit)
-
 -> Download Window (64 bits)
 
 
